@@ -1,0 +1,44 @@
+h1{font-family: Sans-serif ;
+    color: #484848; 
+    font-weight: 400;
+     text-align: center;}
+a{vertical-align:middle;
+    color: black;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: smaller;
+    align-content: center;}
+    div.scroll-container {
+        overflow: auto;
+        white-space: nowrap;
+        padding: 10px;
+      }
+      
+      div.scroll-container img {
+        background: #fff;
+        padding: 8px 8px 8px 8px;
+        margin: 12px 0px 5px 0px;
+        box-shadow: 0 0px 0px 0 rgba(0,0,0,0.0);
+        border: 1px solid #dadce0;
+        border-top-left-radius: 2px;
+        border-top-right-radius: 2px;
+        border-bottom-right-radius: 2px;
+        border-bottom-left-radius: 2px;
+        overflow: auto;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;}
+
+    div.scrolling {
+        background: #fff;
+        padding: 8px 8px 8px 8px;
+        margin: 12px 0px 5px 0px;
+        box-shadow: 0 0px 0px 0 rgba(0,0,0,0.0);
+        border: 1px solid #dadce0;
+        border-top-left-radius: 2px;
+        border-top-right-radius: 2px;
+        border-bottom-right-radius: 2px;
+        border-bottom-left-radius: 2px;
+        overflow: auto;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+    }    
